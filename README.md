@@ -1,7 +1,7 @@
-- 👋 Hi, I’m satishthodeti
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Full Stack Developer
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Satish Thodeti
+- 👀 I’m interested in Coding
+- 🌱 I’m currently learning 4.O Technologys
+- 💞️ I’m looking to collaborate on new 
 - 📫 How to reach me https://www.linkedin.com/in/satishthodeti/
 
 <!---
