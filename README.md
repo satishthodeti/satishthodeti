@@ -4,8 +4,7 @@
 - 👀 I’m interested in building scalable and efficient backend systems.  
 - 🌱 Currently enhancing my expertise in **Microservices, TypeScript, and System Design**.  
 - 💡 Always eager to explore new technologies and improve backend architecture.  
-- 💞️ I’m looking to collaborate on **backend projects, APIs, and open-source contributions**.  
-- 📚 Actively preparing for **high-level backend roles** to reach a **20 LPA package** within 2 years.  
+- 💞️ I’m looking to collaborate on **backend projects, APIs, and open-source contributions**.   
 - 📫 Connect with me on **[LinkedIn](https://www.linkedin.com/in/satishthodeti/)**.  
 
 💻 **Tech Stack:**  
