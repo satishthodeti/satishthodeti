@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Satish Thodeti  
 🚀 Passionate **Backend Developer** | **Node.js | Express.js | PostgreSQL | MongoDB**
 
-- 🛠️ Backend Developer with **1.3 years of experience**, building real-world, scalable backend applications.
+- 🛠️ Backend Developer with **2 years of experience**, building real-world, scalable backend applications.
 - 👀 Interested in creating **robust systems, microservices, and backend automation tools**.
 - 🌱 Currently sharpening skills in **Microservices, TypeScript, System Design, and Distributed Systems**.
 - 📦 Working on personal projects, building **npm packages**, and exploring **AI-integrated backend tools**.
